@@ -1,0 +1,20 @@
+{
+  "name": "my-qrcode-generator",
+  "version": "1.0.0",
+  "description": "A simple QR Code Generator written in JavaScript.",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "qrcode",
+    "generator",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.4.4"
+  }
+}
